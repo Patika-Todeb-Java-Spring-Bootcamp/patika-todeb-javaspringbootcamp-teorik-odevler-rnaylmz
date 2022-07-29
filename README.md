@@ -1,7 +1,7 @@
 # patika-todeb-javaspringbootcamp-teorik-odevler-rnaylmz
 
-Burada Spring Bootcamp ikinci hafta konuları için verilen teorik sorular için hazırladığım cevaplara ait bir adet docx dosyası mevcuttur.
+Burada Spring Bootcamp için verilen teorik sorular için hazırladığım cevaplara ait pdf dosyaları mevcuttur.
 
-There is docx file, i prepared for teorical questions in Spring Bootcamp second week topics.
+There are pdf files, i prepared for teorical questions in Spring Bootcamp.
 
 patika-todeb-javaspringbootcamp-teorik-odevler-rnaylmz created by GitHub Classroom
